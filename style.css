@@ -1,0 +1,57 @@
+.header-section{
+    background-color: darkblue;
+}
+.header-section img{
+    width: 80px;
+}
+.header-section ul{
+    list-style-type: none;
+    text-align: end;
+    margin-bottom: -5px;
+    line-height: 3;
+}
+.header-section ul li{
+    display: inline-block;
+    padding: 0 20px;
+    
+}
+.header-section ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+}
+.header-section ul li a:hover{}
+
+.banner-section{
+    background-image: url(./Images/intro-bg.jpg);
+    padding: 250px 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.meet-teem-section{
+    background-color: #798acdab;
+}
+
+.about-section p{
+    display: inline-block;
+}
+
+.about-section{
+    background-color: #808c9a;
+}
+
+.contact-us iframe{
+    max-width: 100%;
+}
+
+.footer p{
+    margin-bottom: -5px;
+    padding: 13px;
+}
+
+.footer-bold{
+    font-weight: 800;
+}
